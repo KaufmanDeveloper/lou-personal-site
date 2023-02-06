@@ -3,7 +3,7 @@ title: Tori Kaufman
 subtitle: Elementary School Teacher
 email: victoria.kaufman@blountk12.org
 description: I'm an elementary school educator with a love for learning!
-baseurl: "/lou-personal-site" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Tori Kaufman
 street_address: 2720 Avalon Bay Rd
